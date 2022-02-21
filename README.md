@@ -2,13 +2,13 @@
 <h1 align="center">INHT</h1>
 <h2 align="center">Graphic Designer, FrontEnd Developer</h2>
 <div align="center">
-    <a href="#"><img src="https://img.shields.io/badge/mysql-%4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/html-%E34F26?style=for-the-badge&logo=html&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/css-%1572B6?style=for-the-badge&logo=css&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/javascript-%F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/nodedotjs-%339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/adobeillustrator-%FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/mcdonalds-%FBC817?style=for-the-badge&logo=mcdonalds&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/mysql-%#4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/html-%#E34F26?style=for-the-badge&logo=html&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/css-%#1572B6?style=for-the-badge&logo=css&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/javascript-%#F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/nodedotjs-%#339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/adobeillustrator-%#FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/mcdonalds-%#FBC817?style=for-the-badge&logo=mcdonalds&logoColor=white"></a>
 </div>
 
 <div align="center">
