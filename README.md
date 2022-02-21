@@ -1,13 +1,14 @@
 <!-- Entitled User -->
-<h1 align="center">ZEROPOINT</h1>
-<h2 align="center">Your local Database Analyst Specializing in</h2>
+# INHT
+## Graphic Designer, FrontEnd Developer
 <div align="center">
-    <a href="https://www.mysql.com"><img
-            src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
-    <a href="https://redis.io"><img
-            src="https://img.shields.io/badge/redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white"></a>
-    <a href="https://mongodb.com"><img
-            src="https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/html-%23DC382D?style=for-the-badge&logo=html&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/css-%2347A248?style=for-the-badge&logo=css&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/javascript-%2347A248?style=for-the-badge&logo=javascript&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/nodedotjs-%2347A248?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/adobeillustrator-%2347A248?style=for-the-badge&logo=adobeillustrator&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/mcdonalds-%2347A248?style=for-the-badge&logo=mcdonalds&logoColor=white"></a>
 </div>
 
 <div align="center">
@@ -44,7 +45,7 @@
         with just a click of a button? <a href="panel.banabyte.com">Click here to find out more</h3>
 
 ## Stats
-![GitStatistics](https://github-readme-stats.vercel.app/api?username=ZEROPOINTBRUH&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+![GitStatistics](https://github-readme-stats.vercel.app/api?username=inht&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
 ## Language Fluency
-![GitCommonLang](https://github-readme-stats.vercel.app/api/top-langs/?username=ZEROPOINTBRUH&hide_border=true&layout=compact&theme=tokyonight)
+![GitCommonLang](https://github-readme-stats.vercel.app/api/top-langs/?username=inht&hide_border=true&layout=compact&theme=tokyonight)
