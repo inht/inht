@@ -1,6 +1,6 @@
 
 ### INHT
-🖋 Graphic Designer, 🖥Frontend Developer
+🖋 Graphic Designer, 🖥 Frontend Developer
 
 ![HTMLBADGE](https://img.shields.io/static/v1?style=for-the-badge&logo=html5&label=HTML&message=✓&color=red)
 ![CSSBADGE](https://img.shields.io/static/v1?style=for-the-badge&logo=css3&label=CSS&message=✓&color=lightblue&logoColor=lightblue)
