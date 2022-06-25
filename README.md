@@ -28,7 +28,7 @@ I am Tinh. A self-taught graphic designer and frontend developer. I started lear
 ### Contact
 **Discord** spade#7777
 
-**Email** tinh@inht.tech
+**Email** -----------
 
 ### GitHub Statistics
 ![INHT's Stats](https://github-readme-stats.vercel.app/api?username=inht&show_icons=true&theme=radical)
