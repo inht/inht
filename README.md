@@ -26,7 +26,7 @@ I am Tinh. A self-taught graphic designer and frontend developer. I started lear
 - Network Administrator @ SunFireHosting LLC **(2 years)**
 
 ### Contact
-**Discord** tinh.#1221
+**Discord** spade#7777
 
 **Email** tinh@inht.tech
 
