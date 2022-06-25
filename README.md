@@ -11,7 +11,7 @@
 
 
 ### Who am I?
-I am Tinh. A self-taught graphic designer and frontend developer. I started learning my first languages (HTML & CSS) 6 years old. Ever since then, I have grown a passion for computer programming. I have not learned all that I can, but I will keep working hard to do my best in each language I currently have knowledge of. Not only did I want to just code, I also wanted know how to create anything graphical, for my projects.
+I am Tinh. A self-taught graphic designer and frontend developer. I started learning my first languages (HTML & CSS) when I was around 11 years old. Ever since then, I have grown a passion for computer programming. I have not learned all that I can, but I will keep working hard to do my best in each language I currently have knowledge of. Not only did I want to just code, I also wanted know how to create anything graphical, for my projects.
 
 ### Previous Projects
 - KiloV2 (Hypixel Lobby Spammer)
